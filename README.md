@@ -67,6 +67,7 @@ Follow these steps to run the project locally.
 1. **Clone and Install**
 ```bash
 git clone https://github.com/eshwar2005-boss/vector-shift-task.git
+cd vector-shift-task
 cd frontend
 cp .env.example .env
 npm install
